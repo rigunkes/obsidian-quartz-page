@@ -1,6 +1,6 @@
 # Journal
 
-**[[Internship Blog]]
+[[Internship Blog]]
 
 
 Welcome to my Journal I am currently learning about how to convert my Obsidian notes into a static webpage using Quartz and hosting it on GitHub Pages.
