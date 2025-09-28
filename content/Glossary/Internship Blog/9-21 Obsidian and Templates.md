@@ -1,4 +1,5 @@
-4pm-10pm
+4pm-10pm 6hrs
+[[]]
 
 Fixing obsidian sync issues. Turns out the problem is line breaks, because I am running windows and windows reformats the markdown file to add an extra special character for line break(/r/n). while Linux(LF) only has one special character for line breaks(/n). In Windows(CRLF), (/r) returns the line to the beginning and (/n) moves it down to the next line in the feed. Sort of like an x-axis and y-axis. Now, how does this apply to our obsidian LiveSync? We think that every time a markdown file is opened in windows, it converts the file to CRLF and uploads that sync, hereby massively increasing the data sent and received at a much faster rate and overloading the server.
 

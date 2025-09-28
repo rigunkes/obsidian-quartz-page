@@ -1,4 +1,3 @@
-DNS day
 showed up at 4pm, Garth immediately left.
 
 I work on my GitHub page for about 30 minutes.

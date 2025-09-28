@@ -1,4 +1,4 @@
-Arrived at 4:20pm at the makerspace. I met Jenny here. 
+Arrived at 4:20pm at the makerspace. I met with Jenny here. 
 
 I continued working on my Github Page, following a guide that Garth posted on his github page.
 

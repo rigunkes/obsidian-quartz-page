@@ -1,7 +1,7 @@
 
 # Session 1: Underestimation
 
-The story starts with my friend asking me about what laptop he should buy and that he was looking at chromebooks because they are a good budget option. I said, "Hell Yeah! buy it and ill put linux on it for ya, *It shouldn't be too hard*".
+The story starts with my friend asking me about what laptop he should buy and that he was looking at chromebooks because they are a good budget option. I said, "Hell Yeah! buy it and ill put Linux on it for ya, *It shouldn't be too hard*".
 
 So he bought it and he came over to my place and the work had begun..
 

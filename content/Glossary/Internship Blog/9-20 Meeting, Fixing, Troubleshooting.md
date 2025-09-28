@@ -1,4 +1,4 @@
-1pm-9pm 8hours
+1pm-9pm 8hrs
 
 Meeting with Cyrus from Dominion Cyber and Shawn. Discussing partnership and collaboration with Cascade STEAM and PiClub members in the Bellingham Community. It was a good opportunity to build a connection with a potential partner and a chance to talk about Cascade STEAM's community projects. It was a good networking experience and it went really well. We planned to meet in the future with more Cascade STEAM members.
 
