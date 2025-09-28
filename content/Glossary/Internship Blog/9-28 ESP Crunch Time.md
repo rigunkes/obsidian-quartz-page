@@ -13,4 +13,13 @@ Low Priority
  - Plan IT layout and closet setup
  - Plan prod server install
 
-Scripts:
+Standup
+	What you accomplish
+	What you're doing
+	What are your roadblocks
+
+Daily plugin and tasks plugin and cardboard/kanban
+
+
+Note:
+	In future add the discovery as a 'folder note'
