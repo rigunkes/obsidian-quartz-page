@@ -2,6 +2,7 @@
 
 ## Read my Internship blog:
 ## [[Internship Blog]]
+Hours: 51/165
 
 Here is a link to my [GitHub](https://github.com/rigunkes)
 
