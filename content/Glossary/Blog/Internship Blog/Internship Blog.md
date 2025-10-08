@@ -1,4 +1,3 @@
-
 [[10-7 Lab Day Planning and Roadmap]]
 
 [[10-6 WorkAdventure Startup]]
@@ -16,4 +15,9 @@
 [[9-21 Obsidian and Templates]]
 
 [[9-20 Meeting, Fixing, Troubleshooting]]
+
+
+
+Return to:
+[[Blogs]]
 
