@@ -1,4 +1,4 @@
-1:30pm
+1:30pm-8PM
 Arrived to a busy space, settled in and conversed with some makers.
 
 Discussed with Quila and Mike about building a Digital Media Creation Workstation. I discussed with Jason and Grant(Board Members) on where to place this workstation. As well as allowing for a modular setup so that creators can bring a laptop or external hard drive to plug into the workstation.
