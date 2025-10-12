@@ -5,7 +5,8 @@
 Hours: 51/165
 
 Here is a link to my [GitHub](https://github.com/rigunkes)
-Check out Vivian's guide on how to build your own journal just like this: [ GitHub Journal with Obsidian](https://itsvivianmill.github.io/journal/Instructions/GitHub-Journal-with-Obsidian)
+
+Check out Vivian's guide on how to build your own journal: [GitHub Journal with Obsidian](https://itsvivianmill.github.io/journal/Instructions/GitHub-Journal-with-Obsidian)
 ## About My Journal
 
 Hi! my name is Ricky and I am using this journal to blog my journey while Interning at Cascade STEAM, a local non-profit focusing on building community projects and mentorship.
